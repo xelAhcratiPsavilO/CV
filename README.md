@@ -51,11 +51,6 @@ I highly value collective achievement and I like to share the things I learn. Th
 ####   3)
 ## 🎓 Education 
 
-#### Makers Academy (Feb 2018 - May 2018) 
-
-- Software Development, Computer Software Engineering  
-- Some of the skills developed include: Full-Stack Development, Agile Methodologies, TDD, Pair Programming, XP Values, BDD, Ruby, Rails, Sinatra, JavaScript, jQuery, AJAX, SQL, MongoDB, RSpec, Capybara, Jasmine, HTML, CSS, APIs, C++, Python, ML.
-
 #### The University of Dundee (Jan 2017 - Jan 2018)
 
 - Masters in Management (MSc), Business Administration and Operations
