@@ -54,9 +54,6 @@ I highly value collective achievement and I like to share the things I learn. Th
 #### Makers Academy (Feb 2018 - May 2018) 
 
 - Software Development, Computer Software Engineering  
-- My time at Makers allowed me to explore the limits of my curiosity and passion about code. On my spare time, I chose to research about Machine Learning and AI and attended external workshops and meet-ups. Later on, I applied that knowledge in my final project using Python.
--  At makers, I delivered within the given timeframe, meeting deadlines with punctuality. I worked fast and in a proactive manner, learning what is needed for each project.
-- I highly value collective achievement and I like to share the things I learn. That is why I decided to become a mentor of 2 other students at Makers.
 - Some of the skills developed include: Full-Stack Development, Agile Methodologies, TDD, Pair Programming, XP Values, BDD, Ruby, Rails, Sinatra, JavaScript, jQuery, AJAX, SQL, MongoDB, RSpec, Capybara, Jasmine, HTML, CSS, APIs, C++, Python, ML.
 
 #### The University of Dundee (Jan 2017 - Jan 2018)
