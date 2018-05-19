@@ -6,7 +6,7 @@
 
 <p align="center"> <a href='#1'>Projects</a> | <a href='#2'>Skills</a> | <a href='#3'>Education</a> | <a href='#4'>Experience</a> |  <a href='#5'>Interests</a> </p>
 
-I’m a software developer, graduate of Makers Academy and former aerospace and mechanical engineer. I developed a deep love of data as a technical manager at Michelin which has become an endless curiosity about coding. I get excited about cutting edge-technology solving challenges including AI and machine learning. I aim to grow and contribute to a dynamic team in a culture that values challenge and learning.
+I’m a software developer, graduate of Makers Academy and former aerospace and mechanical engineer. I developed a deep love for data as a technical manager at Michelin which has become an endless curiosity about coding. I get excited about cutting edge-technology solving challenges including AI and machine learning. I aim to grow and contribute to a dynamic team in a culture that values challenge and learning.
 <br><br>
 
 #### 1)
