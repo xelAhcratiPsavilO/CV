@@ -1,4 +1,4 @@
-<h2 align="center"> Alejandro Pitarch Olivas </h2>
+<h2 align="center">Alejandro Pitarch Olivas</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alexpitarch/">
